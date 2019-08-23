@@ -1,0 +1,41 @@
+{
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "latex-workshop.view.pdf.viewer": "tab",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
+    "terminal.integrated.rendererType": "dom",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.rulers": [
+            80,
+            110
+        ]
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.rulers": [
+            80,
+            110
+        ]
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "on"
+}

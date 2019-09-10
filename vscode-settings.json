@@ -4,6 +4,7 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "workbench.colorTheme": "Monokai Pro",
     "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.panel.defaultLocation": "right",
     "explorer.confirmDelete": false,
     "window.zoomLevel": 0,
     "typescript.updateImportsOnFileMove.enabled": "always",
